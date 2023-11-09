@@ -1,0 +1,22 @@
+{
+    "hoteles": [
+        {
+            "imagen": "./img/hotel1.png",
+            "titulo": "Habitación de Hotel Boutique en el Centro Histórico",
+            "descripcion": "Este encantador hotel boutique se encuentra en el corazón del centro histórico de la ciudad. Con una arquitectura tradicional y un ambiente acogedor, este hotel ofrece habitaciones elegantemente decoradas y servicios de alta calidad.",
+            "enlace": "#"
+        },
+        {
+            "imagen": "./img/hotel2.png",
+            "titulo": "Habitación de Hotel Junto a la Playa",
+            "descripcion": "Este exclusivo hotel de lujo está ubicado en una impresionante ubicación frente al mar. Con vistas panorámicas al océano y acceso directo a la playa, ofrece a sus huéspedes una experiencia costera inigualable.",
+            "enlace": "#"
+        },
+        {
+            "imagen": "./img/hotel3.png",
+            "titulo": "Habitación de Hotel de Montaña",
+            "descripcion": "Situado en un entorno idílico en medio de las montañas, este encantador hotel de montaña ofrece a sus huéspedes una experiencia única y acogedora. Rodeado de paisajes impresionantes, este hotel cuenta con habitaciones y cabañas de estilo rústico.",
+            "enlace": "#"
+        }
+    ]
+}

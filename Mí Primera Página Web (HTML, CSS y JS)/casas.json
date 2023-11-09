@@ -1,0 +1,23 @@
+{
+    "casas": [
+        {
+            "imagen": "./img/casa1.png",
+            "titulo": "Casa Contemporánea en el Campo",
+            "descripcion": "Esta casa contemporánea de tres dormitorios se encuentra en un entorno campestre tranquilo y pintoresco. Con un diseño arquitectónico moderno, la casa ofrece amplios espacios abiertos y abundante luz natural",
+            "enlace": "depto1.html",
+            "precio": 50000
+        },
+        {
+            "imagen": "./img/casa2.png",
+            "titulo": "Casa Tradicional",
+            "descripcion": "Esta encantadora casa tradicional de cuatro habitaciones se encuentra en el corazón del centro histórico de la ciudad. Con un estilo arquitectónico clásico y elementos originales restaurados, la casa ofrece un ambiente cálido y acogedor.",
+            "enlace": "#"
+        },
+        {
+            "imagen": "./img/casa3.png",
+            "titulo": "Casa de Mr.Satan",
+            "descripcion": "Esta impresionante casa contemporánea de cinco dormitorios se encuentra junto a un hermoso lago, ofreciendo vistas panorámicas y acceso directo al agua.",
+            "enlace": "#"
+        }
+    ]
+}

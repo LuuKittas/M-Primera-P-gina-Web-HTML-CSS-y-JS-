@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Ysabeau+SC:wght@400;600&display=swap');
+ 
+*{
+    box-sizing: border-box;
+    margin: 0%;
+    padding: 0%;
+    font-family: 'Ysabeau SC', sans-serif;
+    font-size: 20px;
+}
+
+body{
+    background: #E7E3E0;
+}
+
+.header{
+    background-color: #FFC26F;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    height: 90px;
+    padding: 5px 10%;
+}
+
+.header .logo{
+    cursor: pointer;
+    margin-right: auto;
+}
+
+.header .logo img{
+    margin-top: 5px;
+    height: 70px;
+    width: auto;
+    transition: all 0.3s;
+    border-radius: 90px;
+}
+
+.header .logo:hover{
+    transform: scale(1.2);
+}
+
+.header .nav-links{
+    list-style: none;
+}
+
+.header .nav-links li{
+    display: inline-block;
+    padding: 0% 50px;
+}
+
+.header .nav-links li:hover{
+    transform: scale(1.1);
+}
+
+.header .nav-links a{
+    font-size: 700;
+    color: #884A39;
+    text-decoration: none;
+}
+
+.header .nav-links li a:hover{
+    color: #E7E3E0;
+}
+
+.header .btn button{
+    font-weight: 700;
+    color: #884A39;
+    padding: 9px 25px;
+    background: #E7E3E0;
+    border: none;
+    border-radius: 50px;    
+    cursor: pointer;
+}
+
+.header .btn button:hover{
+    background-color: #884A39;
+    color: #E7E3E0;
+    transform: scale(1.2);
+}

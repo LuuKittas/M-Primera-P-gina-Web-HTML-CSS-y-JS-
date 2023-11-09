@@ -1,0 +1,25 @@
+{
+    "departamentos": [
+        {
+            "imagen": "./img/depto1.png",
+            "titulo": "Departamento Elegante en el Centro de la Ciudad",
+            "descripcion": "Este hermoso departamento de dos habitaciones se encuentra en el corazón del centro de la ciudad. Con un diseño moderno y elegante, cuenta con amplias ventanas que permiten la entrada de luz natural y ofrecen vistas panorámicas de la ciudad.",
+            "enlace": "depto1.html",
+            "precio": 100
+        },
+        {
+            "imagen": "./img/depto2.png",
+            "titulo": "Departamento Moderno en la Playa",
+            "descripcion": "Este luminoso departamento de una habitación se encuentra en un complejo residencial frente a la playa. Con una decoración moderna y una distribución espaciosa, este departamento ofrece una experiencia de vida costera única.",
+            "enlace": "#",
+            "precio": 200
+        },
+        { 
+            "imagen": "./img/depto3.png",
+            "titulo": "Departamento en Barrio Tranquilo",
+            "descripcion": "Ubicado en un pintoresco y tranquilo vecindario, este departamento de una habitación ofrece un ambiente acogedor y relajado. El espacio habitable cuenta con una sala de estar luminosa con grandes ventanales que permiten una vista panorámica del entorno arbolado.",
+            "enlace": "#",
+            "precio": 300
+        }
+    ]
+}
